@@ -79,11 +79,6 @@ Per-Character Accuracy: 0.9812
 
 ---
 
-## License
-This project is provided for educational and non-commercial research purposes.
-
----
-
 ## Acknowledgments
 Built with PyTorch, OpenCV, and love.
 
